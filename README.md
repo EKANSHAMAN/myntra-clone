@@ -7,8 +7,7 @@ This project replicates the layout and design of the Myntra landing page, focusi
 
 ## 🔗 Live Demo
 
-👉 https://your-live-link.netlify.app
-*(Update after deployment)*
+👉 https://ekanshaman.github.io/myntra-clone/
 
 ---
 
