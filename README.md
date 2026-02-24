@@ -1,97 +1,126 @@
-# Myntra Clone (Frontend)
+# 🛍️ Myntra Clone (Frontend)
 
-A responsive **Myntra Homepage Clone** built using **HTML and CSS**.  
+A responsive **Myntra Homepage Clone** built using **HTML and CSS**.
 This project replicates the layout and design of the Myntra landing page, focusing on modern UI practices, Flexbox layout, and responsive design.
+
+---
+
+## 🔗 Live Demo
+
+👉 https://your-live-link.netlify.app
+*(Update after deployment)*
 
 ---
 
 ## 🚀 Features
 
-- Sticky navigation header
-- Responsive layout using Flexbox
-- Search bar with Material Icons
-- Banner section
-- Product category sections
-- Complete footer with:
-  - Shopping links
-  - Customer policies
-  - App download section
-  - Social media icons
-  - Popular searches
-- Hover effects for navigation and links
-- Clean and structured UI similar to Myntra
+* Sticky navigation header
+* Responsive layout using **Flexbox**
+* Search bar with Google Material Icons
+* Promotional banner section
+* Category and offer sections
+* Complete footer including:
+
+  * Shopping links
+  * Customer policies
+  * App download buttons
+  * Social media icons
+  * Popular searches
+* Hover effects for better user interaction
+* Clean and structured UI inspired by Myntra
 
 ---
 
 ## 🛠️ Tech Stack
 
-- HTML5  
-- CSS3 (Flexbox, Media Queries)  
-- Google Material Symbols
+* **HTML5**
+* **CSS3**
+* Flexbox
+* Media Queries (Basic Responsiveness)
+* Google Material Symbols
 
 ---
 
 ## 📁 Project Structure
+
+```
 myntra-clone/
 │
 ├── index.html
 ├── style.css
 ├── images/
-│ ├── banner.jpg
-│ ├── categories/
-│ ├── offers/
-│ ├── myntra_logo.webp
-│ └── social/app icons
+│   ├── banner.jpg
+│   ├── categories/
+│   ├── offers/
+│   ├── myntra_logo.webp
+│   └── social & app icons
+│
+├── screenshots/
 └── README.md
-
+```
 
 ---
 
-## 💻 How to Run Locally
+## 💻 Run Locally
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/EKANSHAMAN/myntra-clone
+git clone https://github.com/EKANSHAMAN/myntra-clone.git
+```
 
-2.Open the project folder
+2. Open the project folder
 
-3.Open index.html in your browser
+3. Open `index.html` in your browser
 
-📱 Responsive Design
+---
 
-Navigation menu hides on smaller screens
+## 📱 Responsive Behavior
 
-Footer layout adjusts using Flexbox wrap
+* Navigation menu hides on smaller screens
+* Footer adjusts using Flexbox wrap
+* Category items align properly on different screen sizes
 
-Category items align properly on different screen sizes
+---
 
-📸 Screenshots
+## 📸 Screenshots
 
-![Homepage](./screenshots/1.png)
-![Homepage](./screenshots/2.png)
-![Homepage](./screenshots/3.png)
-![Footer](./screenshots/4.png)
-![Footer](./screenshots/5.png)
+### Homepage
 
-)
-🎯 Learning Outcomes
+![Homepage](./screenshots/home.png)
 
-Page layout structuring
+### Header
 
-Flexbox alignment techniques
+![Header](./screenshots/header.png)
 
-Sticky header implementation
+### Footer
 
-CSS pseudo-elements
+![Footer](./screenshots/footer.png)
 
-Responsive design basics
+---
 
-Real-world UI cloning practice
+## 🎯 Learning Outcomes
 
-🌐 Live Demo
-https://your-live-link.netlify.app
+* Real-world UI cloning practice
+* Layout structuring using Flexbox
+* Sticky header implementation
+* CSS pseudo-elements usage
+* Responsive design fundamentals
+* Clean component-based styling approach
 
-📄 License
+---
 
-This project is for learning and educational purposes only.
+## 🔮 Future Improvements
+
+* Convert project to React
+* Add product listing page
+* Implement search functionality
+* Add cart and wishlist features
+* Fully mobile responsive design
+* Deploy on Netlify / Vercel
+
+---
+
+## 📄 License
+
+This project is created for **learning and educational purposes only**.
